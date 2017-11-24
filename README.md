@@ -2,9 +2,9 @@
 This is the week7 project
 
 
-##Retrieve object data with a mouse click and populate the page with that data; push the lab branch to your repo and merge it.
+## Retrieve object data with a mouse click and populate the page with that data; push the lab branch to your repo and merge it.
 
-> Create a repo on Github for this project (a NEW ONE) - call it A3_Lab1. Initialize it with a Readme.
+>> Create a repo on Github for this project (a NEW ONE) - call it A3_Lab1. Initialize it with a Readme.
 
 > Using the Github GUI, create a new branch; edit the Readme (add some information about the project); merge the branch to master
 
