@@ -12,10 +12,10 @@
 
          fetch(url)
           .then((resp) => resp.json())
-          .then((data) => { processResult(data); })
-          .catch(function(error)); {
+          .then((data) => { changeElements(data); })
+          .catch(function(error) {
             console.log(error);
-        }
+        });
           //set up the AJAX call => handle errors first
           //if (!httpRequest) {
             //alert('giving up, your browser sucks');
